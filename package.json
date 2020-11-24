@@ -1,0 +1,27 @@
+{
+  "name": "memedroid",
+  "version": "1.0.0",
+  "description": "Unofficial Memedroid API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/memedroid.git"
+  },
+  "keywords": [
+    "theabbie",
+    "memedroid"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/memedroid/issues"
+  },
+  "homepage": "https://github.com/theabbie/memedroid#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0"
+  }
+}
